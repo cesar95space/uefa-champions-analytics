@@ -1,4 +1,5 @@
 # 🏆 UEFA Champions League - Analytics & Standings Module
+![Vista previa del sistema](estr-und3/Captura%20de%20pantalla%202026-04-22%20161936.png)
 
 ¡Bienvenido al Módulo de Gestión de Datos Oficial de la UEFA Champions League! Este software permite el seguimiento en tiempo real de las estadísticas de competición, diseñado con una interfaz profesional y multimedia.
 
