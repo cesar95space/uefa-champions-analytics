@@ -21,3 +21,9 @@
 3. Ejecuta el archivo principal:
    ```bash
    python uni3.py
+
+
+## 📄 Documentación y Soporte Técnico
+Para una revisión detallada de la lógica del sistema y la resolución de incidencias (Normas Técnicas), puede consultar el siguiente documento:
+
+[📩 Descargar Informe Técnico (PDF)](./estr-und3/informe%20tecnico.pdf)
